@@ -6,7 +6,7 @@ The purpose of this assignment is to learn how to do comparisons using the if st
 
 ### Problem Description
 
-The detailed description of this problem comes from the Programming Projects P6.3 that is in the book (page 302). Ignore the last paragraph that starts `Use a class FactorGenerator`...
+The detailed description of this problem comes from the Programming Projects P4.17 on page 192 in the Late Objects book (P6.3 on page 302 in Early Objects). Ignore the last paragraph that starts `Use a class FactorGenerator`...
 
 You are writing a program that prints out all the factors of a number, in ascending order. All the work of the program, as usual, will be in **Factors.java**. In `public static void main` you should have the user enter a single integer. Then pass that integer to a method you write, `public static String findFactors(int number)`. In that method you will find all the factors, in ascending order, and add them to a single string with a singe space between each number, including the last. Then return that string from the method.
 
