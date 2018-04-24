@@ -34,7 +34,7 @@ public class Factors {
 			System.out.println("Fac: (-1) Rem: " + number);
 		}
 		for(long i=2; i<=number; i++) {
-			if(isPrime(i)) {
+			//if(isPrime(i)) {
 				while(number % i == 0) {
 					
 					number = number / i;
@@ -42,7 +42,7 @@ public class Factors {
 					System.out.println("Fac: " + i + " " + "Rem: " + number);
 					//factors[factors.length + 1] = i;
 				}
-			}
+			//}
 		}
 		
 		/*
