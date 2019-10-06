@@ -7,6 +7,7 @@ import org.junit.BeforeClass;
 import org.junit.Test;
 
 import edu.sbcc.cs105.Factors;
+import edu.sbcc.cs105.FactorsI;
 
 public class FactorsTester {
 	private static final int maximumScore = 15;
